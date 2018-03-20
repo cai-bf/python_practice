@@ -1,2 +1,2 @@
 # python_practice
-for my study of python
+study python_spider
